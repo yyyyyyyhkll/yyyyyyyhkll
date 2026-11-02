@@ -62,6 +62,6 @@
 ### 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yyyyyyyhkll&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyyyyyyhkll&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yyyyyyyhkll&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yyyyyyyhkll&theme=tokyonight" width="48%" />
 </div>
